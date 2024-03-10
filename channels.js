@@ -1,0 +1,1 @@
+var animal = 'https://edge4-moblive.yuppcdn.net/transsd/smil:nflix.smil/playlist.m3u8';
